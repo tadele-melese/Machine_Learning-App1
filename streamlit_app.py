@@ -8,3 +8,7 @@ with st.expander('Data'):
   st.write('**Main Data**')
   df = pd.read_csv('https://raw.githubusercontent.com/tadele-melese/Machine_Learning-App1/master/climate.csv')
   df
+
+st.write('**X**')
+X=df.drop('SPI', axis = 1)
+X
