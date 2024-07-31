@@ -3,4 +3,5 @@ import streamlit as st
 st.title('🎈 Machine Learning App ')
 
 st.info('This app builds machine learning model')
-with st.expander('Data')
+with st.expander('Data'):
+  st.write('**Main Data**')
