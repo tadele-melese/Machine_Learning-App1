@@ -15,3 +15,6 @@ X
 st.write('**Y**')
 Y =df.SPI
 Y
+
+with st.expander('**Data Visualization')
+
