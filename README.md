@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+# Machine Learning App
 ```
-⬆️ (Replace above with your app's name)
+⬆️
 ```
 
-Description of the app ...
+Explore the power of machine learning and deep learning with our interactive app built using Streamlit. Designed for simplicity and efficiency, this app allows users to seamlessly upload datasets, perform exploratory data analysis, and apply state-of-the-art machine learning models
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://machine-learning.streamlit.app/)
 
 ## GitHub Codespaces
 
