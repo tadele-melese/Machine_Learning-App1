@@ -12,5 +12,6 @@ with st.expander('Data'):
 st.write('**X**')
 X=df.drop('SPI', axis = 1)
 X
+st.write('**Y**')
 Y =df('SPI', axis=1)
 Y
