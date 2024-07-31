@@ -16,5 +16,6 @@ st.write('**Y**')
 Y =df.SPI
 Y
 
-with st.expander('**Data Visualization')
+with st.expander('**Data Visualization'):
+  st.scatter_chart(data=df, x="Humidity", y="Wind Speed", color="SPI")
 
